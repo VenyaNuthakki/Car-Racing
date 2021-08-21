@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: deeppink;
+}
+#myCanvas{
+    border-width: 5px;
+    border-color: violet;
+    border-style: solid;
+}
+input{
+    font-size: 20px;
+}
